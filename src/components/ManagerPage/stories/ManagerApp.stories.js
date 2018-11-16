@@ -15,6 +15,7 @@ const icons = {
   bitcoin: 'bitcoin',
   bitcoin_cash: 'bitcoin_cash',
   bitcoin_gold: 'bitcoin_gold',
+  gamecredits: 'gamecredits',
   digibyte: 'digibyte',
   hcash: 'hcash',
   qtum: 'qtum',
